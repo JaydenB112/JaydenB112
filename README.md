@@ -8,7 +8,7 @@ frontend at a digital agency. Looking for my next role on a product team.
 
 ## Projects
 
-- **ScoutHelper** — AI-powered NFL scouting tool · [scouthelper.netlify.app](https://scouthelper.netlify.app)
+- **ScoutHelper** — AI-powered NFL scouting tool · [https://frolicking-sable-2e2893.netlify.app/](https://frolicking-sable-2e2893.netlify.app/)
 - **SchemaGen** — SEO schema markup SaaS · [seo-gen-app-cyan.vercel.app](https://seo-gen-app-cyan.vercel.app)
 - **Interactive Roadmap** — 3D Three.JS mountain experience · [interactive-roadmap-eta.vercel.app](https://interactive-roadmap-eta.vercel.app)
 - **Booth Capture** — Conference lead capture tool · [roaring-treacle-484e56.netlify.app](https://roaring-treacle-484e56.netlify.app)
