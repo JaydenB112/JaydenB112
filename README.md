@@ -1,17 +1,23 @@
-👋 Hello World! I'm Jay, a passionate software developer on a mission to turn lines of code into innovative solutions. 🚀
+# Jay Boyd
 
-🖥️ Aspiring Tech Professional | 💻 Full-Stack Developer | 🌐 Web Enthusiast
+Full-Stack Engineer & Team Lead based in Memphis, TN.
 
-🌟 Here's what I bring to the digital table:
-- 💡 Creative problem-solving skills.
-- 🌐 Proficiency in web development technologies like HTML, CSS, JavaScript, React and more.
-- 📊 Data-driven mindset for building efficient and scalable applications.
-- 🧩 Keen interest in exploring emerging tech trends.
+I build production-grade web apps across the full stack — React, Next.js 15,
+TypeScript, Three.JS, Prisma, PostgreSQL, and AI integrations. Currently leading
+frontend at a digital agency. Looking for my next role on a product team.
 
-🚀 Currently seeking opportunities to collaborate and contribute in the tech world. Let's connect and code something amazing together! 🤝
+## Projects
 
-📫 Reach me at jaydenboydb1@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/jay-boyd-787a87210/).
+- **ScoutHelper** — AI-powered NFL scouting tool · [scouthelper.netlify.app](https://scouthelper.netlify.app)
+- **SchemaGen** — SEO schema markup SaaS · [seo-gen-app-cyan.vercel.app](https://seo-gen-app-cyan.vercel.app)
+- **Interactive Roadmap** — 3D Three.JS mountain experience · [interactive-roadmap-eta.vercel.app](https://interactive-roadmap-eta.vercel.app)
+- **Booth Capture** — Conference lead capture tool · [roaring-treacle-484e56.netlify.app](https://roaring-treacle-484e56.netlify.app)
 
-🌐 Explore my projects and let's embark on a coding journey together! 🚴‍♂️
+## Stack
 
-#CodeIsLife #TechEnthusiast #InnovationDriven
+React · Next.js 15 · TypeScript · Three.JS · Tailwind · Framer Motion
+Prisma · PostgreSQL · Supabase · Auth.js · Docker · Vitest · Gemini AI
+
+## Contact
+
+thejayvariable.com · [LinkedIn](https://www.linkedin.com/in/jay-boyd) · jayboyd@email.com
