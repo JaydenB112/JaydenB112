@@ -20,4 +20,4 @@ Prisma · PostgreSQL · Supabase · Auth.js · Docker · Vitest · Gemini AI
 
 ## Contact
 
-[thejayvariable.com](https://thejayvariable.com) · [LinkedIn](https://www.linkedin.com/in/jay-boyd) · jayboyd@email.com
+[thejayvariable.com](https://thejayvariable.com) · [LinkedIn](https://www.linkedin.com/in/jay-boyd) · jayboyd@thejayvariable.com
