@@ -3,8 +3,7 @@
 Full-Stack Engineer & Team Lead based in Memphis, TN.
 
 I build production-grade web apps across the full stack — React, Next.js 15,
-TypeScript, Three.JS, Prisma, PostgreSQL, and AI integrations. Currently leading
-frontend at RedRover Sales & Marketing. Looking for my next role on a product team.
+TypeScript, Three.JS, Prisma, PostgreSQL, and AI integrations. Looking for my next role on a product team.
 
 ## Projects
 
